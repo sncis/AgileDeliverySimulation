@@ -10,5 +10,5 @@ https://sites.google.com/site/scriptsexamples/custom-methods/2d-arrays-library
 
 2. deleting all columns except for A & B on the scratch sheet.
 
-3.deleting all rows after 30 in simulations sheet.
+3. deleting all rows after 30 in simulations sheet.
 
